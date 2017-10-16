@@ -1,4 +1,4 @@
-## Ruby Menu Challenge!
+## Ruby Hash Practice: Dollar Menu Challenge!
 ```
 menu = {
   :pizza => 3.50,
